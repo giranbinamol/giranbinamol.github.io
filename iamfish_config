@@ -1,15 +1,17 @@
-    {
+
+
+ {
       
       "show": true,
       "CheckR": true,
-      "com": true,
-      "published": true,
+      "com": false,
+      "published": false,
       
       "version": 1,
       "newAppLink": "com.Trailmix.LoveAndPiesMerges",
        
       "privacy": "https://sites.google.com/view/giranbinamol",
-      "mail":"giranbinamol",
+      "mail":"",
       
        
       
@@ -18,7 +20,7 @@
       "nbOrnAds":"mix",
       
       "med":false,
-      "NativeCount": 2,
+      "NativeCount": 3,
       
       "showOnlyOpen":false,
       
@@ -42,14 +44,14 @@
         "admb_openad": "ca-app-pub-3940256099942544/3419835294"
       },
       
-      "onBackOpenAds":true,
+      "onBackOpenAds":false,
       "admbNbOrB":"nb",
       
       
       
-      "unity": true,
+      "unity": false,
       "adsunity": {
-        "unity_id": "3667089",
+        "unity_id": "3667089s",
         "unity_inters": "video"
       }
     }
